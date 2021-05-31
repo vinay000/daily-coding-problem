@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "timers": [
+            0,
+            10,
+            0
+        ],
+        "steps": [
+            "Turn on Gas",
+            "Cook Egs for 10 mins",
+            "Server the eggs"
+        ]
+    },
+    {
+        "id": 2,
+        "timers": [
+            10,
+            0,
+            20,
+            0
+        ],
+        "steps": [
+            "Heat up the Gas",
+            "Pour the soup and water",
+            "Cook for 20 mins",
+            "Serve the soup"
+        ]
+    },
+    {
+        "id": 3,
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "steps": [
+            "Open the Pack",
+            "Put in a bowl",
+            "Add Water",
+            "Turn on Gas",
+            "Cook for 10 mins",
+            "Server hot-ramen"
+        ]
+    }
+]
